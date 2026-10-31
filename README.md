@@ -13,7 +13,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | ARP request          | <a href="https://github.com/Estaing/Arp-request">ARP request</a>|
-| VLAN Configuration          | <a href="https://github.com/Estaing/Arp-request">VLAN Configuration</a>|
+| VLAN Configuration          | <a href="https://github.com/Estaing/VLAN-Config">VLAN Configuration</a>|
 
 
 ## Tools
